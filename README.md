@@ -7,6 +7,6 @@ Uncertainty* by Haimiti Atila and Seymour M.J. Spence.
 
 ##Lists of Abbreviations:
 
-- Multiple layer perceptron with LSTM : MLP-LSTM
-- Message-passing neural network with LSTM : MPNN-LSTM
-- Autoencoder with LSTM : AE-LSTM
+* Multiple layer perceptron with LSTM : MLP-LSTM
+* Message-passing neural network with LSTM : MPNN-LSTM
+* Autoencoder with LSTM : AE-LSTM
